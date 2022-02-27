@@ -1,3 +1,6 @@
 This is a test file.
 Modified from Master branch.
+
+Modified from master to test git merge in github
 Changes made from cdt branch.
+
